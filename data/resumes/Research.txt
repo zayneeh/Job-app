@@ -1,0 +1,80 @@
+Zainab Tairu
+# tairuzainab5@gmail.com | (cid:239) Linkedin | § Github | (cid:128) Website
+Education
+Bachelor of Science in Chemical Engineering Jan 2022–2027
+Obafemi Awolowo University, Osun, Nigeria
+Relevant Courses: Thermodynamics (A), Python (A), Mathematical Methods/Linear Algebra (B)
+Work Experience
+NNPC Investment Management Services, Lagos, Nigeria Oct 2025–Present
+Process Intern
+• Conducted exploratory research integrating well log and seismic data for reservoir characterization.
+• Designed an ETL pipeline automating daily production reports from field operators, improving data accessibility
+and reporting efficiency.
+• Explored ML applications for predictive maintenance of factory equipment.
+CoMMa Lab, University of Texas, USA Jul 2025–Present
+Research Intern
+• Contributed to research on multimodal transformer architectures for polymer property prediction.
+• Conducted literature reviews, designed controlled experiments, and assisted in model evaluation.
+• Wrote a survey paper on Machine learning in Polymer science
+The Innoverse, South Africa Aug 2024–Jul 2025
+NLP Intern
+• Trained an intelligent chatbot leveraging Retrieval-Augmented Generation (RAG) with Neo4j Knowledge Graphs
+for contextual retrieval.
+• Fine-tuned low-resource text-to-speech (TTS) models for English and Zulu to enhance multilingual accessibility.
+• Explored agent-based AI systems for dynamic knowledge-driven conversations.
+Publications
+Papers and Preprints
+• Machine Learning Models and Their Complexities in Polymer Informatics: A Systematic Review (Expected
+submission Jan 2026).
+• Evaluating Retrieval-Augmented Generation for Medication Question Answering on Nigerian Drug Labels in
+Yorùbá (Submitted to a workshop at EACL).
+Poster Presentations
+• Hot and Sustainable: AI-Guided Design of Thermostable Lipases, Deep Learning Indaba 2025
+• Dual AI Architectures for Accessible Medication Management: OCR-LLM vs. VLM, Deep Learning Indaba 2025
+• Reservoir Characterization with Machine Learning, SPE OAU Hackathon 2025
+Projects
+MediVoice May 2025
+• Built a voice-based pipeline enabling visually impaired users to manage medication schedules independently.
+UlcerMate Jun 2025
+• DevelopedanAI-poweredpipelinetohelpstomachulcerpatientstracksymptomsandmedicationswhiledetecting
+personal ulcer triggers using machine learning.
+Malaria Blood Smear Classifier Jun 2025
+• Built a CNN algorithm achieving 99% accuracy for malaria diagnosis from blood smear images.RFE Risk Analyzer Jul 2025
+• Built a USCIS-style risk analyzer using DeepSeek LLM and Ollama to simulate adjudicator feedback for EB-1A
+petitions.
+Conferences, Workshops, Other Research Activities
+Deep Learning Indaba, Kigali, Rwanda (poster presented) 2025
+SPE Hackathon, Nigeria (team lead) 2025
+Deep Learning Indaba, Dakar, Senegal (attended) 2024
+DSN AI Bootcamp, Nigeria (participant) 2024
+DS4Health 2025
+Teaching Experience
+DSN OAU May 2025–Jun 2025
+Deep Learning Tutor
+• Taught foundational deep learning concepts, including building Convolutional Neural Networks (CNNs) using
+several libraries.
+Star Girls Africa Jun 2024–Aug 2024
+Data Science Tutor
+• Instructed over 100 students in Python programming and supervised their first end-to-end machine learning
+model training.
+Relevant Extracurricular Experience
+Lead, DSN OAU Dec 2025 – Present
+• Coordinated talks and invited speakers on advanced and ethical deep learning topics.
+Deep Learning Lead, DSN OAU Jan 2025– Nov 2025
+• Coordinated talks and invited speakers on advanced and ethical deep learning topics.
+Public Relations Officer, Space Club OAU Jan 2025–Oct 2025
+• Managed outreach campaigns and collaborations to promote space and AI education on campus.
+Member, SPE OAU Jan 2022–Present
+• Participatedinhackathonsandappliedmachinelearningtopracticalproblemsinthepetroleumengineeringspace.
+Skills
+• Advanced • Proficient • Moderate
+• Programming: Python •, SQL •, Cypher •, MATLAB •, Bash •
+• Machine Learning & AI: Deep Learning •, Transformers •, RAG •, LLMs •, CNNs •
+• Data Analysis & Visualization: NumPy •, Pandas •, JAX •, Matplotlib •, Seaborn •, Plotly •
+• Natural Language Processing: NER •, Sentiment Analysis •, Prompt Engineering •,Rasa •,LangChain •
+• ScientificComputing&Bioinformatics: MolecularModeling•,ProteinSequenceAnalysis•,Computational
+Chemistry •
+• Frameworks & Libraries: PyTorch •, TensorFlow •, Hugging Face •, scikit-learn •
+• Databases: Neo4j •, SQL•
+• Cloud, Deployment & DevOps: AWS •, Docker •, FastAPI •, Streamlit •, Gradio •, GitHub Actions •
+• Version Control & Collaboration: Git •, GitHub •
